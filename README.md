@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jarox4
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me with an email
 
